@@ -1,0 +1,209 @@
+Autoataque: El ataque básico ejecutado por un campeón al pulsar clic derecho sobre un enemigo.
+Una partida personalizada donde los jugadores eligen campeones en modo Blind Pick para luchar sólo en el carril medio.
+Cuando todos los miembros de un equipo son eliminados.
+Habilidades que poseen campeones y algunos items, que requieren ser activadas.
+Daño de Ataque: Hace referencia al ataque físico.
+Una partida personalizada donde los jugadores eligen campeones en modo Draft Pick para luchar sólo en el carril medio.
+Campeón que basa su daño en los autoataques. Objetos que otorgan daño físico, velocidad de ataque y probabilidad de ataque crítico.
+Ausente
+El objetivo prioritario de un agente controlado por la I.A.( súbdito, torreta, monstruo, etc).
+Área de efecto: Habilidades que causan daño en área y no sólo a un campeón determinado.
+Poder de Habilidad.
+All Random All Mid
+Penetración de Armadura.
+Velocidad de Ataque.
+Campeón que tiene la capacidad de emboscar y eliminar rápidamente a sus enemigos.
+Ayudar a un aliado a eliminar a un campeón enemigo.
+Habilidad Pasiva de la que pueden tomar beneficio campeones aliados.
+Retirarse en dirección a la base aliada o buscando alejarse del enemigo.
+Campeón que continuamente asiste a un aliado determinado.
+Ofrecerse de señuelo para atraer al enemigo a una trampa.
+Hace referencia tanto al monstruo neutral Baron Nashor Baron Nashor como al buff que otorga.
+El área protegida donde se encuentra la Tienda, Nexo e Inhibidores.
+Atacar el nexo enemigo sin que el mismo enemigo esté en su base y sin el soporte de minions aliados.
+Pájaro
+Habilidad de Control de Masas que provoca que el objetivo falle todos sus autoataques mientras dure el efecto de la habilidad.
+buff que otorga mana
+Carril inferior.
+Expresión utilizada para avisar al equipo que se está volviendo a base.
+Cuando un elemento en el juego está desbalanceado o funciona mal (puede ser un campeón, objeto, hechizo, etc)
+Bloquear personajes durante los modos Clasificatoria y Normal Draft Pick.
+Campeón que causa daño masivo (físico) a través de combos con sus habilidades.
+Arbustos diseminados por los mapas, donde los campeones pueden esconderse.
+Un efecto positivo que se aplica a un campeón.
+Conjunto de objetos adquiridos por un campeón durante la partida.
+Un defecto no intencional en las mecánicas del juego.
+Una gran cantidad de daño causado en muy poco tiempo. Por lo general ese daño se le produce a un solo campeón.
+Ser cuidadoso ante posible gank o algún otro tipo de peligro.
+Un campeón que generalmente comienza más débil que otros campeones, pero se vuelve más poderoso mientras progresa el juego.
+Un campeón cuyo principal fuente de daño son sus habilidades.
+control sobre personajes
+Cuenta regresiva de una habilidad ya lanzada para poder usarla nuevamente.
+Usar consecutivamente varias habilidades con Control de Masas sobre el mismo campeón enemigo.
+Acosar a un enemigo para que retroceda.
+Cuando los jugadores aliados coordinan entre ellos para converger y abrumar al equipo enemigo.
+No retirarse. Permanecer en la lucha hasta que la batalla termine o hasta que tu campeón sea eliminado.
+Arreglar una emboscada como respuesta inmediata a otra emboscada de los enemigos.
+Asesinar monstruos neutrales en la jungla del equipo enemigo, privándolos de mejoras, oro y experiencia.
+Elegir un campeón en particular durante la fase de selección para hacerle contra a un campeón enemigo determinado.
+Un jugador requiere la ayuda de otro compañero para congelar la línea mientras no está allí (Para más datos, ver "babysit" y "hold.")
+Monsters and minions.
+ proteger la torreta o base sin atacar agresivamente.
+Daño Directo
+Daño Doble.
+Un efecto negativo aplicado sobre un campeón; el contrario de mejora o buff.
+Eliminar minions aliados para evitar que el rival gane oro y experiencia. Sinónimo de "Zonear"
+Un modo de Control de Masas que previene que el enemigo ejecute acciones particulares.
+Acosar a un objetivo determinado en un área altamente peligrosa, típicamente, alrededor de la torreta enemiga.
+Capacidad porcentual de evadir un autoataque enemigo.
+Efecto de daño a lo largo del tiempo ('Damage over Time').
+Eliminar a dos enemigos en muy poco tiempo.
+Daño por segundo (por ejemplo velocidad de ataque).
+Un tipo de selección de campeones donde los participantes deben primero atravesar el proceso de banning (bloqueo de campeones).
+Un campeón que destaca combatiendo campeones enemigos de a uno por vez. (ej. Fiora Fiora, Jax Jax).
+Muerte producida al campeón enemigo
+Un campeón que entra a un arbusto a ver si un enemigo está escondido allí. Puede ser una acción bastante peligrosa.
+Cuando el jugador usa su hechizo Flash de manera equivocada o cuando en medio de una huida, falla al intentar atravesar una pared con el mismo hechizo.
+Eliminar minions para obtener oro y experiencia.
+First Blood - Primera Sangre: Primera muerte de la partida.
+Un efecto negativo que provoca que el objetivo vague a su alrededor incontrolablemente
+Es un campeón que se vuelve muy poderoso luego de obtener múltiples asesinatos sobre campeones enemigos.
+Morir repetidamente ante el equipo enemigo, dándoles oro y experiencia. Un jugador que hace esto es un feeder.
+Un hechizo de invocador que, activándolo, transporta al campeón a una corta distancia en dirección al cursor (flechita del mouse).
+Dirigir los esfuerzos de un equipo hacia asesinar un objetivo específico, generalmente uno de alto valor estratégico como el carry enemigo.
+Áreas sombreadas del mapa, fuera del rango de visión de campeones aliados, minions y estructuras.
+Cuando un equipo intenta tomar un objetivo a como dé lugar, obligando al enemigo a forzar una batalla para detenerlos.
+Plataforma de piedra ubicada en cada base, donde los campeones resurgen luego de morir, regeneran vida y mana, y pueden comprar objetos.
+Frames per second
+Tirar el juego; cuando el equipo que lleva una ventaja comete uno o varios errores que hace que pierdan esa ventaja, o toda la partida.
+Hacer una emboscada a uno o más enemigos desprevenidos con uno o más campeones aliados.
+Una habilidad o hechizo que acorta la distancia entre el campeón y el enemigo.
+Un jugador que observa a un jugador enemigo que está streameando su partida, para tener una ventaja durante la partida.
+Un campeón o build que posee mucho daño pero poca defensa.
+Una habilidad que puede golpear en cualquier parte del mapa (por ejemplo Enchanted Crystal Arrow Flecha de Cristal Encantada de Ashe Ashe).
+Oro; la moneda de intercambio para comprar objetos dentro de la partida.
+Presionar al rival causándole daño, mientras se evita recibirlo a cambio.
+Un efecto de Control de Masas que interrumpe la canalización de habilidades.
+Asistir al jungla aliado atacando a un monstruo, reduciendo su salud para permitir a nuestro aliado dar el último golpe.
+Estar en una línea y proteger la torre para evitar que sea destruida.
+Habilidad que previene el movimiento y atrae hacia sí a un enemigo. 
+Puntos de vida. También se puede traducir como Hit Points o Puntos de Impacto.
+Campeón que puede usar dos o más tipos de build, ya que sus habilidades escalan tanto con AD como con AP.
+Campeón que es extremadamente débil en early y (en ocasiones) mid game, pero escala muy bien en late game al punto de convertirse en imparable si tiene buen farm y/o está feed. 
+Cuando un campeón o monstruo con la vida llena (o cerca de ello) sufre un daño letal en muy poco tiempo, siendo eliminado sin posibilidad de reaccionar.
+Instant lock: Una rápida selección y lockeo de un campeón en particular, sin tomar en cuenta las decisiones o pedidos del resto del equipo. Es una actitud muy anti-deportiva y proclive a reportes/sanciones.
+Ir al territorio enemigo, particularmente a su jungla. Suele hacerse antes de la salida de los minions, buscando robar los buff enemigos.
+Objeto que se usa o equipa para mejorar la perfomance de los campeones en la partida.
+El acto de esquivar habilidades enemigas.
+Espacios poblados por monstruos neutrales, ubicados entre las líneas.
+Campeón que cambia el luchar en una línea por obtener experiencia y oro eliminando a los monstruos neutrales de la jungla. Es quien se encarga del equilibrio de su equipo, emboscando a los campeones enemigos en sus lineas, buscando eliminarlos con ayuda de sus compañeros, o en todo caso, que pierdan tanto oro como experiencia.
+Eliminar monstruos en la jungla.
+Combinación de dos campeones cuyo propósito específico es eliminar a los dos campeones enemigos durante la fase de líneas. Usualmente, esa táctica se utiliza en el carril inferior.
+Campeón que elimina al menos a 3 enemigos consecutivos sin haber caído.
+Set de habilidades que posee un campeón.
+Un campeón que es particularmente bueno kiteando (por ejemplo Ashe Ashe).
+Alejarse de un campeón enemigo mientras se lo ataca continuamente, de manera que el mismo es dañado pero no puede causar daño en respuesta.
+Empujar al rival en la dirección opuesta al uso de la habilidad. El objetivo no puede moverse o actuar durante el efecto de la misma.
+Interrumpir cualquier acción enemiga, enviándolo por los aires.
+Dejar que un aliado esté a punto de eliminar a un enemigo y dar el último golpe (intencionalmente) para llevarse la muerte junto al oro por ella.
+Prevenir que un muy débil objetivo huya, eliminándolo aunque no se le haya hecho la mayor parte del daño.
+Cuando un campeón elimina a múltiples enemigos consecutivamente. El "Kill Streak" se resetea cuando el campeón es eliminado.
+Reducción de la velocidad de respuesta (clickeas y responde un poco después) durante una partida. Se determina por la cantidad de latencia que pueda tenerse en ese momento, según internet o el servidor del juego. El lag severo puede derivar en una desconexión y contará como si hubieras dejado la partida si no reconectas antes de que la partida termine.
+Los caminos por donde circulan los minions aliados y enemigos.
+Campeón o jugador que ocupa una cierta línea durante el early game (juego temprano).
+Primera parte de la partida en La Grieta del Invocador y El Bosque Retorcido. Generalmente finaliza cuando una o dos torretas son destruídas.
+Dar el golpe de gracia a un objetivo enemigo.
+Robo de vida.
+Estar en el rango de las unidades enemigas para ganar experiencia pero sin ayudar a sus compañeros a eliminar enemigos.
+Bajo en Mana
+Último Suspiro
+El mejor o más favorito campeón de un jugador. Por lo general, es el que mejor usa.
+Recurso usado por muchos campeones para castear habilidades.
+Campeones que no cuentan con la estadística de mana.
+Lugar donde los campeones luchan entre ellos.
+Actual estilo del juego, que consiste en aspectos tales como la configuración de carril, jungla, y la composición del equipo.
+Carril central
+Unidad controlada mediante la I.A. que surgen a partir del nexo o punto capturado (sólo en Dominion) y marchan hacia las estructuras enemigas.
+Grupo de minions surgidos de a una vez. Pueden acumularse si no se los elimina rápidamente o si no hay alguien en la linea.
+Campeones que causan daño físico mediante el lanzamiento de proyectiles. Esta categoría encierra a casi todos los ADC.
+Multiplayer Online Battle Arena
+Penetración Mágica
+ Resistencia Mágica.
+Velocidad de movimiento
+Nombre alternativo del Abismo de los Lamentos. Al comienzo de la partida, en ocasiones el anunciador se refiere al mapa con este nombre.
+Modificación oficial a las mecánicas del juego, campeón, hechizo u objeto, haciéndolo menos poderoso. Es lo opuesto a "buff".
+Estructura primaria donde los minions son lanzados a cada línea. La partida se gana cuando el nexo enemigo es destruído.
+Jugador sin habilidad/experiencia. Sinónimos de la palabra son "nub" y "n00b". Deriva de la palabra "novato" (newbie).
+Campeones que hacen daño magico masivo usando sus habilidades. Puede ser con una sola o en combo.
+Campeón que se arma casi en totalidad como un tanque, pero que lleva al menos un objeto de daño.
+Sin mana
+Campeón que por defecto es más poderoso (ya sea, teniendo más AD/Vida o armadura) o tiene cualidades que lo distinguen por sobre el resto (hard CC, habilidades que incrementan la armadura o hacen un daño desproporcionado, etc).
+Acción de proteger a los aliados de ataques enemigos usando habilidades que posean Control de Masas.
+Eliminar a los cinco campeones enemigos en muy poco tiempo.
+Latencia de la conexión a internet del jugador hacia el servidor del juego, midiéndose en "ms" (milisegundo, 1 ms = 0.001 segundo).
+Estrategia que consiste en aniquilar a cada monstruo de la jungla enemiga, buscando debilitar las posibilidades del equipo rival de obtener oro, experiencia y buffs en su propia jungla.
+Forma de hostigamiento (harass) que usa ataques de rango para causar de un pequeño a moderado daño buscando debilitar al enemigo, siempre manteniendo una posición segura.
+Ubicación de un campeón durante la batalla. El buen "posicionamiento" es determinado por el conocimiento que el jugador posee sobre la óptima ubicación en la que su campeón debe ir. Por ejemplo, el tanque del equipo suele ubicarse en primera fila, protegiendo a quienes se encargan de hacer daño.
+Varios jugadores que se conocen entre sí, forman un equipo juntos para entrar a la fase de selección de campeones.
+Jugador muy talentoso y destacado, diminutivo de "profesional".
+Farmear minions entre ambas torretas enemigas para atraer al jungla contrario (y quitar presión de las lineas) y evitar que nuestro rival consiga tanto oro como experiencia, además de prevenir que tiren las torres aliadas de la linea.
+Habilidad que trae al enemigo más cerca a ti 
+Avanzar rápidamente por un carril, limpiando olas de minions y destruyendo torretas.
+Player versus Player -Jugador contra Jugador: Modos de juego que no incluyen campeones controlados por la I.A.
+Asesinato Cuádruple: Eliminar a cuatro enemigos en muy poco tiempo.
+Quintessence - Quintaesencia, el más caro y poderoso tipo de runa.
+Acción de insultar a sus compañeros durante la partida.
+Entrar a la lucha solo, usualmente una táctica suicida.
+Diminutivo de "Reaparición". Indica al equipo que el campeón enemigo ya no está "Desaparecido en Acción" o "MIA"
+Habilidad que poseen todos los campeones para teletransportarse a su base luego de canalizarla durante 8 segundos.
+También conocido como "buff rojo"
+El agua que cruza entre los carriles en La Grieta del Invocador.
+Campeón que abandona su puesto para moverse alrededor del mapa, tanto para suportear, junglear o gankear.
+Debilitación que impide cualquier movimiento (pero no acción) de un campeón enemigo. También se le llama "Snare" o "Inmobilize".
+Qué tan bien incrementa la eficiencia de un campeón a medida que gana nivel y compra items.
+Scrimmage: Dos equipos compiten entre ellos para divertirse en una partida fuera de torneo.
+Eliminar a un campeón que viene con racha de asesinatos (Killing Spree)
+Debilitación que impide al objetivo lanzar o activar habilidades.
+Habilidad que requiere correcta puntería para alcanzar a su objetivo.
+Apariencia diferente para un campeón, adquirible mediante la compra de RP.
+Una debilitación que reduce la velocidad de movimiento del objetivo.
+Eliminar al Ancient Golem Ancient Golem o 20px Lizard Elder sin usar Smite.png Smite.
+Debilitación que impide el movimiento (pero no acción) del objetivo. También se le llama "Root" o "Inmobilize".
+Situación que ocurre cuando un campeón o equipo obtiene una ventaja y conforme avanza el juego.
+Item que incrementa su potencial mediante asesinatos o asistencias.
+Un tipo de Control de Masas que no interrumpe la canalización de habilidades.
+Campeón que encara su carril (generalmente medio y superior) de manera solitaria. De ahí vienen los términos Solo Mid y Solo Top.
+Atacar y destruir una torre rival mientras el equipo enemigo se encuentra en otra parte del mapa.
+Campeón fácilmente eliminable dada su poca defensa o vida.
+Habilidad que da la capacidad al campeón que la posee de ser indetectable por el enemigo.
+Una habilidad que incrementa uno o más parámetros base de un campeón.
+Debilitación que impide al objetivo moverse, atacar o castear habilidades.
+Rol que toma el jugador que "llama" (elige) a un campeón para manejarlo en la batalla.
+Un minion más poderoso que sale al campo luego de destruir un inhibidor enemigo en el modo de juego Clásico.
+Tipo de campeones que tiene la tarea de fortalecer y apoyar la perfomance de sus compañeros.
+Capacidad que tiene un campeón de permanecer en una línea o jungla durante el mayor tiempo posible, sin volver a la base.
+Cuán bien pueden dos o más campeones trabajar juntos.
+Campeón capaz de recibir gran cantidad de daño. Por lo general se arma con vida, armadura y resistencia mágica. 
+Una debilitación que obliga al objetivo a atacar a quien la lanza.
+Los miembros de un equipo comparten para lograr un exitoso trabajo en equipo.
+Lucha de Equipo, cuando varios campeones de cada bando entran en batalla en un área 
+Lucha de Equipo, cuando varios campeones de cada bando entran en batalla en un área determinada.
+Top/upper lane - Carril superior
+Acosar a un enemigo dentro del rango de su torre.
+intercambiar de campeón con otro jugador durante la selección de campeones en los modos Draft Pick o Clasificatoria.
+Cuando los jugadores de cada lado intercambian daño durante una confrontación, sufriéndolo en el proceso.
+Cuando los equipos de ambos bandos sufren un equivalente número de muertes luego de una batalla.
+Particular arbusto en formal de "Y" que cubre tres direcciones.
+Asesinato Triple: Eliminar a tres enemigos en muy poco tiempo.
+Estructura que defiende los carriles y la base.
+Aura, habilidad o cualidad de objeto que no aumenta si compras otro objeto con el mismo efecto.
+Underpowered: Campeón que por defecto tiene muy bajo potencial, comparándolo con la media.
+Hechizos o habilidades que tienen la cualidad de ser benéficos para el equipo.
+Habilidad de campeón que le permite al jugador ver a través del área de sombras por unos segundos
+Objetos que dan visión sobre un área pequeña del Área de Sombras cuando son colocados.
+Colocar un Guardián de Visión Rosa de modo estratégico, buscando atraer al enemigo hacia una trampa cuando venga a destruirlo.
+Guardianes de Visión colocados de un modo estratégico para obtener más visión de un área específica del mapa.
+Lugar donde los Guardianes de Visión son colocados.
+Limpieza de olas de súbditos. Es la capacidad de un campeón de destruir largas olas de súbditos en uno o pocos lanzamiento de habilidades.
+A menudo describe una lucha entre dos campeones con muy poco daño, usualmente tanques. Suele tomar lugar en el carril superior en los juegos competitivos.
+Cuando un equipo efectiva y consecutivamente encadena sus habilidades en uno o más campeones enemigos.
